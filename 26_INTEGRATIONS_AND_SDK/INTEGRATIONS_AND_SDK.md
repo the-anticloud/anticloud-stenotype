@@ -1,0 +1,25 @@
+# Integrations and SDK — STENOTYPE
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** STENOTYPE | Category: ELECTRICITY_MANAGEMENT
+**Upstream:** https://github.com/StevenTammen/stenotype (GPL)
+
+## Overview
+
+This document covers integrations and sdk for the Anticloud integration of STENOTYPE.
+
+(swap) Use: github.com/openwrt/openwrt — Smart router energy mgmt
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into STENOTYPE to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
